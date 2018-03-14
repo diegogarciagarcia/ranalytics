@@ -1,0 +1,12 @@
+name: MyShinyHelloWorld
+title: MyShinyHelloWorld
+username:
+account: diegogarciagarcia
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 299338
+bundleId: 1268113
+url: https://diegogarciagarcia.shinyapps.io/MyShinyHelloWorld/
+when: 1521029694.7108
+asMultiple: FALSE
+asStatic: FALSE
